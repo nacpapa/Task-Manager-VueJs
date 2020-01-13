@@ -9,6 +9,7 @@ Utuliza Vuex
 Utuliza bootstrap 4.0
 Utiliza bootstrap-vue 2.0
 
+
 (https://bootstrap-vue.js.org/
 
 npm install vue bootstrap-vue bootstrap
