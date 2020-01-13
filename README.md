@@ -13,8 +13,9 @@ Utiliza bootstrap-vue 2.0
 npm install vue bootstrap-vue bootstrap
 import Vue from 'vue'
 import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
-// Install BootstrapVue
+// Install BootstrapVu
 Vue.use(BootstrapVue)
 // app.js
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css')
+
