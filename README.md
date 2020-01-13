@@ -28,3 +28,5 @@ import 'bootstrap/dist/css/bootstrap.css'
 
 import 'bootstrap-vue/dist/bootstrap-vue.css')
 
+
+Se trabajó con Visual Studio code + vue + vetur + es6-string-html
